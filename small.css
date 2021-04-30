@@ -1,0 +1,14 @@
+@media all and (max-width: 500px) {
+
+    .main {
+        flex: 1 100%;
+        order: 2;
+    }
+    
+    .aside {
+        flex: 1 100%;
+        order: 1;
+    }
+
+
+}
